@@ -1,0 +1,3 @@
+tunnel: 42ac184a-be39-45b8-840f-f570ec22ab94
+credentials-file: /config/.cloudflared/42ac184a-be39-45b8-840f-f570ec22ab94.json
+url: http://localhost:4173
