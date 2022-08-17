@@ -91,6 +91,8 @@ const language = computed(() => {
       return "shell";
     case "json":
       return "json";
+    case "js":
+      return "javascript"
     default:
       return "html";
   };
